@@ -1,4 +1,4 @@
-const Bot = require('./bot');
+const Bot = require('./lib/bot');
 
 const token = process.env.TOKEN;
 
