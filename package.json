@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "A bot for the PonySFM server.",
   "main": "index.js",
+  "repository": {
+    "type:": "git",
+    "url": "git://github.com/PonySFM/Bot.git"
+  },
   "scripts": {
     "dev": "nodemon index.js",
     "lint": "./node_modules/.bin/eslint .",
